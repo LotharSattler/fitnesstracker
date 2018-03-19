@@ -54,11 +54,11 @@
             </p>
         </div>
         <a class="btn btn-primary" href="addGoal.html">
-            Add Goal &raquo;
+            Add Goal �
         </a>
 
         <a class="btn btn-primary" href="addMinutes.html">
-            Add Exercise Minutes &raquo;
+            Add Exercise Minutes �
         </a>
     </div>
     <div>
